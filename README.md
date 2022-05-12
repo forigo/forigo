@@ -1,4 +1,4 @@
-Hi 👋 My name is Fori \[.sgnirts\]
+Hi 👋 I'm Fori \[.sgnirts\]
 ===========================================
 
 Web Developer student
