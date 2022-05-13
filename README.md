@@ -1,9 +1,6 @@
 Hi 👋 I'm Fori \[.sgnirts\]
 ===========================================
 
-Web Developer student
----------------------
-
 I've been a code lover for several years and now I've finally returned to study web development in order to switch out my career. Nowadays in order to improve my knowledge and skills I'm studying through the Explorer program from Rocketseat.
 <br><img src="https://raw.githubusercontent.com/forigo/forigo/main/coding.png" width="200" height="225" align="right">
 
