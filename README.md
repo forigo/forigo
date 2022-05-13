@@ -17,25 +17,27 @@ src="https://img.shields.io/twitter/follow/felipeforigo?logo=twitter&style=for-t
 /></a><a href="https://www.github.com/forigo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/forigo?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
 
-### Skills
+### 💻 Skills
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="24" height="24" alt="C++" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="Javascript" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="24" height="24" alt="HTML5" /></a>&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24" alt="React" /></a>&nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="24" height="24" alt="CSS3" /></a>&nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="24" height="24" alt="Figma" /></a>&nbsp;
-</p>
+### 📚 Studying
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
-
-### Socials
+### 🛠 Coding / Apps / Terminal 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Hyper](https://img.shields.io/badge/-Hyper-333333?style=flat&logo=hyper&logoColor=007ACC)
+  
+### 🕸️ Socials
 
 <p align="left"> <a href="https://discord.com/users/Felipe%20Forigo#9713" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="24" height="24" /></a>&nbsp; <a href="https://www.github.com/forigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="24" height="24" /></a>&nbsp; <a href="http://www.instagram.com/felipeforigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /></a> &nbsp;<a href="https://www.linkedin.com/in/felipeforigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a> &nbsp;<a href="https://www.twitter.com/felipeforigo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### ⚙️ My GitHub Stats
 
 <center>
 <a href="http://www.github.com/forigo"><img src="https://github-readme-stats.vercel.app/api?username=forigo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=6366f1&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="forigo's GitHub stats" width="419px"/></a>&nbsp;&nbsp;<a href="http://www.github.com/forigo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=forigo&stroke=6366f1&background=181824&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" width="419px"/></a></center>
