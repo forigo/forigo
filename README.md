@@ -5,6 +5,7 @@ Web Developer student
 ---------------------
 
 I've been a code lover for several years and now I've finally returned to study web development in order to switch out my career. Nowadays in order to improve my knowledge and skills I'm studying through the Explorer program from Rocketseat.
+<br><img src="https://raw.githubusercontent.com/forigo/forigo/main/coding.png" width="200" height="225" align="right">
 
 * 🌱   I'm a newbie developer
 * 🌍  I'm based in Paranaguá - Brazil
@@ -12,6 +13,7 @@ I've been a code lover for several years and now I've finally returned to study 
 * ✉️  You can contact me at [felipe\_forigo@hotmail.com](mailto:felipe_forigo@hotmail.com)
 * 🧠  I'm learning JavaScript ~ React
 * ⚡  ~ never give up ~
+
 
 <a href="https://www.twitter.com/felipeforigo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/felipeforigo?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
