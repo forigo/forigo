@@ -39,8 +39,8 @@ src="https://img.shields.io/github/followers/forigo?logo=github&style=for-the-ba
 
 ### ⚙️ My GitHub Stats
 
-<center>
-<a href="http://www.github.com/forigo"><img src="https://github-readme-stats.vercel.app/api?username=forigo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=6366f1&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="forigo's GitHub stats" width="410px"/></a>&nbsp;&nbsp;<a href="http://www.github.com/forigo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=forigo&stroke=6366f1&background=181824&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" width="410px"/></a></center>
+<div align="center">
+<a href="http://www.github.com/forigo"><img src="https://github-readme-stats.vercel.app/api?username=forigo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=6366f1&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="forigo's GitHub stats" width="410px"/></a>&nbsp;&nbsp;<a href="http://www.github.com/forigo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=forigo&stroke=6366f1&background=181824&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" width="410px"/></a></div>
 
 <a href="http://www.github.com/forigo"><img src="https://activity-graph.herokuapp.com/graph?username=forigo&bg_color=181824&color=6366f1&line=a855f7&point=6366f1&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <center>
