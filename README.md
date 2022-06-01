@@ -2,7 +2,6 @@ Hi 👋 I'm Fori \[.sgnirts\]
 ===========================================
 
 I've been a code lover for several years and now I've finally returned to study web development in order to switch out my career. Nowadays in order to improve my knowledge and skills I'm studying through the Explorer program from Rocketseat.
-<br><img src="https://github.com/forigo/forigo/blob/main/%E2%80%94Pngtree%E2%80%94hacker%20coding%20with%20a%20keyboard_5426760.png" width="200" height="200" align="right">
 
 * 🌱   I'm a newbie developer
 * 🌍  I'm based in Paranaguá - Brazil
