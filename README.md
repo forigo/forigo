@@ -24,7 +24,6 @@ src="https://img.shields.io/github/followers/forigo?logo=github&style=for-the-ba
 ### 📚 Studying
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
 ### 🛠 Coding / Apps / Terminal 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
