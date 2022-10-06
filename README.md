@@ -1,7 +1,7 @@
 Hi 👋 I'm Fori \[.sgnirts\]
 ===========================================
 
-I've been a code lover for several years and now I've finally returned to study web development in order to switch out my career. Nowadays in order to improve my knowledge and skills I'm studying through the Explorer program from Rocketseat.
+I've been a code lover for several years and now I've finally returned to study web development in order to switch out my career. 
 
 * 🌱   I'm a newbie developer
 * 🌍  I'm based in Paranaguá - Brazil
